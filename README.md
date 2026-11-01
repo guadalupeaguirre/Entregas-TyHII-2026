@@ -26,44 +26,55 @@ Ignacio Coronado <ignaciomcoronadopungitore@gmail.com>
 
 **Entrega Módulo 1**
 
-| Apellido(s) | Nombre(s) | Correo Electrónico | WhatsApp | Módulo 1 |
-|---|---|---|---|---|
+| Apellido(s) | Nombre(s) | Correo Electrónico | Módulo 1 |
+|---|---|---|---|
 | Aguirre Simionato | Maria Guadalupe | mariaguadaaguirre29@gmail.com | 2612645040 | https://github.com/guadalupeaguirre/Modulo1-TyHM2| 
-| Rocío | Alarcón |  |
+| Rocío | Alarcón | alarcon.rocio.1h1@gmail.com |  |
 | Perez Vicchi | Santiago | perezvicchisantiago@gmail.com | 2615695075 | |
 | Sfragara | Luciano Jesus | ljsfraga@gmail.com | 2615590955 |  |
 | Zoia | Julian Ignacio | julianzoia10@gmail.com | 2615651125 | |
-| Coronado | Ignacio | molinanacho03@gmail.com | 2615345768 |  |
+| Coronado | Ignacio | ignaciomcoronadopungitore@gmail.com |  |  |
 
 **Entrega Módulo 2**
 
-| Apellido(s) | Nombre(s) | Correo Electrónico | WhatsApp | Módulo 2 |
-|---|---|---|---|---|
-| Aguirre Simionato | Maria Guadalupe | mariaguadaaguirre29@gmail.com | 2612645040 |https://github.com/guadalupeaguirre/Modulo-2| 
-| Rocío | Alarcón | joaquinbordon@gmail.com |
-| Perez Vicchi | Santiago | perezvicchisantiago@gmail.com | 2615695075 |https://github.com/santiago-perezvicchi10/Modulo-2|
-| Sfragara | Luciano Jesus | ljsfraga@gmail.com | 2615590955 |https://github.com/Luchos-fragara1/Modulo-2 |
-| Zoia | Julian Ignacio | julianzoia10@gmail.com | 2615651125 |https://github.com/julianzoia/modulo_2|
-| Coronado | Ignacio | molinanacho03@gmail.com | 2615345768 | https://github.com/ignaciomolina14/modulo-2 |
+| Apellido(s) | Nombre(s) | Correo Electrónico | Módulo 2 |
+|---|---|---|---|
+| Aguirre Simionato | Maria Guadalupe | mariaguadaaguirre29@gmail.com || 
+| Rocío | Alarcón | alarcon.rocio.1h1@gmail.com |
+| Perez Vicchi | Santiago | perezvicchisantiago@gmail.com ||
+| Sfragara | Luciano Jesus | ljsfraga@gmail.com | |
+| Zoia | Julian Ignacio | julianzoia10@gmail.com ||
+| Coronado | Ignacio | ignaciomcoronadopungitore@gmail.com |  |
 
 **Entrega Módulo 3**
 
-| Apellido(s) | Nombre(s) | Correo Electrónico | WhatsApp | Módulo 3 |
-|---|---|---|---|---|
-| Aguirre Simionato | Maria Guadalupe | mariaguadaaguirre29@gmail.com | 2612645040 |https://github.com/guadalupeaguirre/Modulo-2| 
-| Rocío | Alarcón | joaquinbordon@gmail.com |
-| Perez Vicchi | Santiago | perezvicchisantiago@gmail.com | 2615695075 |https://github.com/santiago-perezvicchi10/Modulo-2|
-| Sfragara | Luciano Jesus | ljsfraga@gmail.com | 2615590955 |https://github.com/Luchos-fragara1/Modulo-2 |
-| Zoia | Julian Ignacio | julianzoia10@gmail.com | 2615651125 |https://github.com/julianzoia/modulo_2|
-| Coronado | Ignacio | molinanacho03@gmail.com | 2615345768 | https://github.com/ignaciomolina14/modulo-2 |
+| Apellido(s) | Nombre(s) | Correo Electrónico | Módulo 3 |
+|---|---|---|---|
+| Aguirre Simionato | Maria Guadalupe | mariaguadaaguirre29@gmail.com || 
+| Rocío | Alarcón | alarcon.rocio.1h1@gmail.com |
+| Perez Vicchi | Santiago | perezvicchisantiago@gmail.com ||
+| Sfragara | Luciano Jesus | ljsfraga@gmail.com | |
+| Zoia | Julian Ignacio | julianzoia10@gmail.com ||
+| Coronado | Ignacio | ignaciomcoronadopungitore@gmail.com |  |
 
 **Entrega Módulo 4**
 
-| Apellido(s) | Nombre(s) | Correo Electrónico | WhatsApp | Módulo 4 |
-|---|---|---|---|---|
-| Aguirre Simionato | Maria Guadalupe | mariaguadaaguirre29@gmail.com | 2612645040 |https://github.com/guadalupeaguirre/Modulo-2| 
-| Rocío | Alarcón | joaquinbordon@gmail.com |
-| Perez Vicchi | Santiago | perezvicchisantiago@gmail.com | 2615695075 |https://github.com/santiago-perezvicchi10/Modulo-2|
-| Sfragara | Luciano Jesus | ljsfraga@gmail.com | 2615590955 |https://github.com/Luchos-fragara1/Modulo-2 |
-| Zoia | Julian Ignacio | julianzoia10@gmail.com | 2615651125 |https://github.com/julianzoia/modulo_2|
-| Coronado | Ignacio | molinanacho03@gmail.com | 2615345768 | https://github.com/ignaciomolina14/modulo-2 |
+| Apellido(s) | Nombre(s) | Correo Electrónico | Módulo 4 |
+|---|---|---|---|
+| Aguirre Simionato | Maria Guadalupe | mariaguadaaguirre29@gmail.com || 
+| Rocío | Alarcón | alarcon.rocio.1h1@gmail.com |
+| Perez Vicchi | Santiago | perezvicchisantiago@gmail.com ||
+| Sfragara | Luciano Jesus | ljsfraga@gmail.com ||
+| Zoia | Julian Ignacio | julianzoia10@gmail.com ||
+| Coronado | Ignacio | ignaciomcoronadopungitore@gmail.com | |
+
+**Entrega Módulo 4**
+
+| Apellido(s) | Nombre(s) | Correo Electrónico | Módulo 5 |
+|---|---|---|---|
+| Aguirre Simionato | Maria Guadalupe | mariaguadaaguirre29@gmail.com || 
+| Rocío | Alarcón | alarcon.rocio.1h1@gmail.com |
+| Perez Vicchi | Santiago | perezvicchisantiago@gmail.com ||
+| Sfragara | Luciano Jesus | ljsfraga@gmail.com ||
+| Zoia | Julian Ignacio | julianzoia10@gmail.com ||
+| Coronado | Ignacio | ignaciomcoronadopungitore@gmail.com | |
