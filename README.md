@@ -28,11 +28,11 @@ Ignacio Coronado <ignaciomcoronadopungitore@gmail.com>
 
 | Apellido(s) | Nombre(s) | Correo Electrónico | Módulo 1 |
 |---|---|---|---|
-| Aguirre Simionato | Maria Guadalupe | mariaguadaaguirre29@gmail.com | 2612645040 | https://github.com/guadalupeaguirre/Modulo1-TyHM2| 
+| Aguirre Simionato | Maria Guadalupe | mariaguadaaguirre29@gmail.com | https://github.com/guadalupeaguirre/Modulo1-TyHM2| 
 | Rocío | Alarcón | alarcon.rocio.1h1@gmail.com |  |
-| Perez Vicchi | Santiago | perezvicchisantiago@gmail.com | 2615695075 | |
-| Sfragara | Luciano Jesus | ljsfraga@gmail.com | 2615590955 |  |
-| Zoia | Julian Ignacio | julianzoia10@gmail.com | 2615651125 | |
+| Perez Vicchi | Santiago | perezvicchisantiago@gmail.com | |
+| Sfragara | Luciano Jesus | ljsfraga@gmail.com |  |
+| Zoia | Julian Ignacio | julianzoia10@gmail.com | |
 | Coronado | Ignacio | ignaciomcoronadopungitore@gmail.com |  |  |
 
 **Entrega Módulo 2**
