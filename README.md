@@ -10,17 +10,17 @@
 
 **Integrantes del Grupo**
 
-Santiago Perez Vicchi <>
+Maria Guadalupe Aguirre Simionato <mariaguadaaguirre29@gmail.com>
 
-Maria Guadalupe Aguirre Simionato <>
+Santiago Perez Vicchi <Perezvicchisantiago@gmail.com>
 
-Luciano sfragara <>
+Luciano sfragara <Ljsfraga@gmail.com>
 
-Rocío Alarcón <>
+Rocío Alarcón <alarcon.rocio.1h1@gmail.com>
 
-Julian Zoia <>
+Julian Zoia <julianzoia10@gmail.com>
 
-Ignacio Coronado <>
+Ignacio Coronado <ignaciomcoronadopungitore@gmail.com>
 
 ## Entregas 
 
