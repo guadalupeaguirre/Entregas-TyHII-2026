@@ -28,12 +28,12 @@ Ignacio Coronado <ignaciomcoronadopungitore@gmail.com>
 
 | Apellido(s) | Nombre(s) | Correo Electrónico | WhatsApp | Módulo 1 |
 |---|---|---|---|---|
-| Aguirre Simionato | Maria Guadalupe | mariaguadaaguirre29@gmail.com | 2612645040 |https://github.com/guadalupeaguirre/Modulo-2| 
-| Rocío | Alarcón | joaquinbordon@gmail.com |
-| Perez Vicchi | Santiago | perezvicchisantiago@gmail.com | 2615695075 |https://github.com/santiago-perezvicchi10/Modulo-2|
-| Sfragara | Luciano Jesus | ljsfraga@gmail.com | 2615590955 |https://github.com/Luchos-fragara1/Modulo-2 |
-| Zoia | Julian Ignacio | julianzoia10@gmail.com | 2615651125 |https://github.com/julianzoia/modulo_2|
-| Coronado | Ignacio | molinanacho03@gmail.com | 2615345768 | https://github.com/ignaciomolina14/modulo-2 |
+| Aguirre Simionato | Maria Guadalupe | mariaguadaaguirre29@gmail.com | 2612645040 | https://github.com/guadalupeaguirre/Modulo1-TyHM2| 
+| Rocío | Alarcón |  |
+| Perez Vicchi | Santiago | perezvicchisantiago@gmail.com | 2615695075 | |
+| Sfragara | Luciano Jesus | ljsfraga@gmail.com | 2615590955 |  |
+| Zoia | Julian Ignacio | julianzoia10@gmail.com | 2615651125 | |
+| Coronado | Ignacio | molinanacho03@gmail.com | 2615345768 |  |
 
 **Entrega Módulo 2**
 
