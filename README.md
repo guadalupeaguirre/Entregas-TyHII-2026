@@ -55,7 +55,7 @@ Francisco Del Pópolo <fdelpopolos@gmail.com>
 
 | Apellido(s) | Nombre(s) | Correo Electrónico | Módulo 3 |
 |---|---|---|---|
-| Aguirre Simionato | Maria Guadalupe | mariaguadaaguirre29@gmail.com || 
+| Aguirre Simionato | Maria Guadalupe | mariaguadaaguirre29@gmail.com |https://github.com/guadalupeaguirre/Modulo3-TyHM2| 
 | Alarcón | Rocío | alarcon.rocio.1h1@gmail.com |
 | Perez Vicchi | Santiago | perezvicchisantiago@gmail.com ||
 | Sfragara | Luciano Jesus | ljsfraga@gmail.com | |
