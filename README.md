@@ -32,7 +32,7 @@ Francisco Del Pópolo <fdelpopolos@gmail.com>
 |---|---|---|---|
 | Aguirre Simionato | Maria Guadalupe | mariaguadaaguirre29@gmail.com | https://github.com/guadalupeaguirre/Modulo1-TyHM2| 
 | Alarcón | Rocío | alarcon.rocio.1h1@gmail.com |
-| Perez Vicchi | Santiago | perezvicchisantiago@gmail.com | |
+| Perez Vicchi | Santiago | perezvicchisantiago@gmail.com |https://github.com/santiago-perezvicchi10/Modulo-1---TyH-Modernas-II |
 | Sfragara | Luciano Jesus | ljsfraga@gmail.com |  |
 | Zoia | Julian Ignacio | julianzoia10@gmail.com | |
 | Coronado | Ignacio | ignaciomcoronadopungitore@gmail.com |  |  |
