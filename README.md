@@ -35,7 +35,7 @@ Francisco Del Pópolo <fdelpopolos@gmail.com>
 | Perez Vicchi | Santiago | perezvicchisantiago@gmail.com |https://github.com/santiago-perezvicchi10/Modulo-1---TyH-Modernas-II |
 | Sfragara | Luciano Jesus | ljsfraga@gmail.com |  |
 | Zoia | Julian Ignacio | julianzoia10@gmail.com | |
-| Coronado | Ignacio | ignaciomcoronadopungitore@gmail.com |  |  |
+| Coronado | Ignacio | ignaciomcoronadopungitore@gmail.com | https://github.com/Igna-Coronado24/T-cnica-y-Herramientas-2/tree/cb04adbfa17bf8b8ddcb3248fb6286bcc83dd050/M%C3%B3dulo_1||
 | Del Pópolo | Francisco | fdelpopolos@gmail.com |  |  |
 
 
@@ -48,7 +48,7 @@ Francisco Del Pópolo <fdelpopolos@gmail.com>
 | Perez Vicchi | Santiago | perezvicchisantiago@gmail.com ||
 | Sfragara | Luciano Jesus | ljsfraga@gmail.com | |
 | Zoia | Julian Ignacio | julianzoia10@gmail.com ||
-| Coronado | Ignacio | ignaciomcoronadopungitore@gmail.com |  |
+| Coronado | Ignacio | ignaciomcoronadopungitore@gmail.com |https://github.com/Igna-Coronado24/T-cnica-y-Herramientas-2/tree/cb04adbfa17bf8b8ddcb3248fb6286bcc83dd050/M%C3%B3dulo_2  |
 | Del Pópolo | Francisco | fdelpopolos@gmail.com |  |  |
 
 **Entrega Módulo 3**
@@ -60,7 +60,7 @@ Francisco Del Pópolo <fdelpopolos@gmail.com>
 | Perez Vicchi | Santiago | perezvicchisantiago@gmail.com ||
 | Sfragara | Luciano Jesus | ljsfraga@gmail.com | |
 | Zoia | Julian Ignacio | julianzoia10@gmail.com ||
-| Coronado | Ignacio | ignaciomcoronadopungitore@gmail.com |  |
+| Coronado | Ignacio | ignaciomcoronadopungitore@gmail.com |  https://github.com/Igna-Coronado24/T-cnica-y-Herramientas-2/tree/cb04adbfa17bf8b8ddcb3248fb6286bcc83dd050/M%C3%B3dulo_3 |
 | Del Pópolo | Francisco | fdelpopolos@gmail.com |  |  |
 
 **Entrega Módulo 4**
@@ -72,7 +72,7 @@ Francisco Del Pópolo <fdelpopolos@gmail.com>
 | Perez Vicchi | Santiago | perezvicchisantiago@gmail.com ||
 | Sfragara | Luciano Jesus | ljsfraga@gmail.com ||
 | Zoia | Julian Ignacio | julianzoia10@gmail.com ||
-| Coronado | Ignacio | ignaciomcoronadopungitore@gmail.com | |
+| Coronado | Ignacio | ignaciomcoronadopungitore@gmail.com | https://github.com/Igna-Coronado24/T-cnica-y-Herramientas-2/tree/cb04adbfa17bf8b8ddcb3248fb6286bcc83dd050/M%C3%B3dulo_4 |
 | Del Pópolo | Francisco | fdelpopolos@gmail.com |  |
 
 **Entrega Módulo 5**
@@ -84,6 +84,6 @@ Francisco Del Pópolo <fdelpopolos@gmail.com>
 | Perez Vicchi | Santiago | perezvicchisantiago@gmail.com ||
 | Sfragara | Luciano Jesus | ljsfraga@gmail.com ||
 | Zoia | Julian Ignacio | julianzoia10@gmail.com ||
-| Coronado | Ignacio | ignaciomcoronadopungitore@gmail.com | |
+| Coronado | Ignacio | ignaciomcoronadopungitore@gmail.com | https://github.com/Igna-Coronado24/T-cnica-y-Herramientas-2/tree/cb04adbfa17bf8b8ddcb3248fb6286bcc83dd050/M%C3%B3dulo_5 |
 | Del Pópolo | Francisco | fdelpopolos@gmail.com |  |
 
