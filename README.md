@@ -71,7 +71,7 @@ Francisco Del Pópolo <fdelpopolos@gmail.com>
 | Alarcón | Rocío | alarcon.rocio.1h1@gmail.com |
 | Perez Vicchi | Santiago | perezvicchisantiago@gmail.com ||
 | Sfragara | Luciano Jesus | ljsfraga@gmail.com ||
-| Zoia | Julian Ignacio | julianzoia10@gmail.com ||
+| Zoia | Julian Ignacio | julianzoia10@gmail.com | https://github.com/julianzoia/Modulo_4-Qgis |
 | Coronado | Ignacio | ignaciomcoronadopungitore@gmail.com | https://github.com/Igna-Coronado24/T-cnica-y-Herramientas-2/tree/cb04adbfa17bf8b8ddcb3248fb6286bcc83dd050/M%C3%B3dulo_4 |
 | Del Pópolo | Francisco | fdelpopolos@gmail.com |  |
 
